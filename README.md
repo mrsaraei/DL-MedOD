@@ -3,7 +3,7 @@
 
 Mohammadreza Saraei [^1] ([Website](https://www.linkedin.com/in/mrsaraei/)), Mehrshad Lalinia ([Website](https://www.linkedin.com/in/mehrshadlalinia/?originalSubdomain=ir)), Dr. Eung-Joo Lee ([Website](https://www.brunel.ac.uk/people/sebelan-danishvar](https://ece.engineering.arizona.edu/faculty-staff/faculty/eung-joo-lee)))
 
-**Published Paper: [[IEEE Access (20 March 2025)](https://doi.org/10.1109/ACCESS.2025.3553087)]**
+**Published Paper: [IEEE Access (20 March 2025)](https://doi.org/10.1109/ACCESS.2025.3553087)**
 
 ![DL-MedOD Approach](https://github.com/mrsaraei/DL-MedOD/blob/b83a30ed7f69fda6ac91ec9f4da6ed49e6f66fb5/figure/Fig_2.png)
 
