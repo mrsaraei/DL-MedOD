@@ -13,9 +13,9 @@ Mohammadreza Saraei [^1] ([Website](https://www.linkedin.com/in/mrsaraei/)), Meh
 
 ## Reviewed Studies from 2022 to 2025
 <p align="center">
-  <img src="https://github.com/mrsaraei/ViT-2SPN/blob/f80354f7ba0abb2054c4d79d8cfa860bf56dbe34/figures/Fig_6.png" width="100%"/>
-  <img src="https://github.com/mrsaraei/ViT-2SPN/blob/f80354f7ba0abb2054c4d79d8cfa860bf56dbe34/figures/Fig_7.png" width="100%"/>
-  <img src="https://github.com/mrsaraei/ViT-2SPN/blob/f80354f7ba0abb2054c4d79d8cfa860bf56dbe34/figures/Fig_8.png" width="100%"/>
+  <img src="https://github.com/mrsaraei/DL-MedOD/blob/a91b51628574ebbb60e16072f5d292fcc94e1485/figure/Fig_4.png" width="100%"/>
+  <img src="" width="100%"/>
+  <img src="" width="100%"/>
 </p>
 
 ## Fulltext (Please click the cover to view full access paper]
