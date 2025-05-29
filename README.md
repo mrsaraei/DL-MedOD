@@ -1,7 +1,7 @@
 # DL-MedOD
 **Deep Learning-Based Medical Object Detection: A Survey**
 
-Mohammadreza Saraei [^1] ([Website](https://www.linkedin.com/in/mrsaraei/)), Mehrshad Lalinia ([Website](https://www.linkedin.com/in/mehrshadlalinia/?originalSubdomain=ir)), Dr. Eung-Joo Lee ([Website](https://ece.engineering.arizona.edu/faculty-staff/faculty/eung-joo-lee)))
+Mohammadreza Saraei [^1] ([Website](https://www.linkedin.com/in/mrsaraei/)), Mehrshad Lalinia ([Website](https://www.linkedin.com/in/mehrshadlalinia/?originalSubdomain=ir)), Dr. Eung-Joo Lee ([Website](https://ece.engineering.arizona.edu/faculty-staff/faculty/eung-joo-lee))
 
 **Published Paper: [IEEE Access (20 March 2025)](https://doi.org/10.1109/ACCESS.2025.3553087)**
 
