@@ -21,7 +21,7 @@ Mohammadreza Saraei [^1] ([Website](https://www.linkedin.com/in/mrsaraei/)), Meh
 </p>
 
 ## Fulltext (Please click the cover to view full access paper]
-[![Fulltext Preview](https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/figure/Fig_3.png)](https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf)
+[![Fulltext Preview](https://github.com/mrsaraei/DL-MedOD/blob/85cb70b491147a4e8a431c4b1222baf8221c9226/figure/Fig_10.png)](https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf)
 
 ## Citation (BibTeX)
 
